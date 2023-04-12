@@ -4,10 +4,9 @@
     padding: 0;
 }
 
-html,
-body
+html
 {
-    overflow: hidden;
+    background: #1e1a20;
 }
 
 .webgl
@@ -28,9 +27,8 @@ body
     font-family: 'Cabin', sans-serif;
     color: #ffeded;
     text-transform: uppercase;
-    font-size: 7vmin;
-    padding-left: 10%;
-    padding-right: 10%;
+    font-size: 4vmin;
+    padding: 0 5%;
 }
 
 section:nth-child(odd)
